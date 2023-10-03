@@ -10,6 +10,12 @@ install node version manager
 install node 18
 nvm use 18
 npm i phaser
+npm i serve 
+```
+
+To start the local server:
+```
+npx serve
 ```
 
 

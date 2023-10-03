@@ -100,6 +100,7 @@
   },
   "dependencies": {
     "eventemitter3": "^5.0.0",
-    "phaser": "^3.60.0"
+    "phaser": "^3.60.0",
+    "serve": "^14.2.1"
   }
 }
